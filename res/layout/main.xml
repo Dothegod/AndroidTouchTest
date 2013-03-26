@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<view android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      class="com.example.AndroidTouchTest.MyLinearLayout"
+      xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/view">
+    <com.example.AndroidTouchTest.MyTextView
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:id="@+id/tv"
+            android:text="lzqdiy"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:background="#FFFFFF"
+            android:textColor="#0000FF"/>
+</view>
